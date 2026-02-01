@@ -5,7 +5,9 @@
 
 <img width="2551" height="1043" alt="image" src="https://github.com/user-attachments/assets/fe12a284-8d5c-434f-a623-88e4303ab798" />        
 
-<img width="2555" height="1038" alt="image" src="https://github.com/user-attachments/assets/4de18749-949d-4925-a348-ad4d5413511e" />    
+<img width="2555" height="1038" alt="image" src="https://github.com/user-attachments/assets/4de18749-949d-4925-a348-ad4d5413511e" />     
+
+<img width="2560" height="1042" alt="image" src="https://github.com/user-attachments/assets/4568b451-f2ca-4d6d-b8b9-8eb2d61c3fe8" />    
 
 A continuación tienes una **solución completa, clara y funcional** que cumple exactamente con lo solicitado:
 
