@@ -9,6 +9,8 @@
 
 <img width="2560" height="1042" alt="image" src="https://github.com/user-attachments/assets/4568b451-f2ca-4d6d-b8b9-8eb2d61c3fe8" />    
 
+<img width="808" height="414" alt="image" src="https://github.com/user-attachments/assets/83267eec-0f7d-4532-abba-463760c90963" />    
+
 A continuación tienes una **solución completa, clara y funcional** que cumple exactamente con lo solicitado:
 
 ✅ Formulario de login en **HTML + JavaScript**  
