@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>dashboard</title>
+    </head>
+    <body>
+
+        <h2>BIENVENIDO</h2>
+
+        <p><strong>usuario:</strong> <span id="user"></span></p>
+        <p><strong>correo:</strong> <span id="email"></span></p>
+
+        <script>
+            const data = JSON.parse(localStorage.getItem("usuario"));
+
+            document.getElementById("user").textContent = data.usuario;
+            document.getElementById("email").textContent = data.correo;
+        </script>
+
+    </body>
+</html>
