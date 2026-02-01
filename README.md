@@ -3,7 +3,9 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e79fee00-03a7-41cd-a1b2-1d143802acb4" />    
 
-<img width="2551" height="1043" alt="image" src="https://github.com/user-attachments/assets/fe12a284-8d5c-434f-a623-88e4303ab798" />    
+<img width="2551" height="1043" alt="image" src="https://github.com/user-attachments/assets/fe12a284-8d5c-434f-a623-88e4303ab798" />        
+
+<img width="2555" height="1038" alt="image" src="https://github.com/user-attachments/assets/4de18749-949d-4925-a348-ad4d5413511e" />    
 
 A continuación tienes una **solución completa, clara y funcional** que cumple exactamente con lo solicitado:
 
